@@ -1,5 +1,5 @@
-# emanuelteklu.github.io
-Personal Website so I can flex on the haters
+Personal Website
+Personal Website so I express my love for Gen
 
 # Welcome to My Basic Website
 
@@ -11,7 +11,7 @@ I am a web developer who loves writing code and building cool projects.
 
 ## Projects
 
-Check out some of my exciting projects:
+Check out some of my exciting projects that don't work:
 
 - [Project 1](https://github.com/your-username/project1): A fun game using HTML5 canvas.
 - [Project 2](https://github.com/your-username/project2): A personal portfolio website built with React.
