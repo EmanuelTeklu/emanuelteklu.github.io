@@ -1,2 +1,52 @@
+header {
+  /* Basic header styling */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align items to the left */
+  padding: 10px;
+  width: 100%;
+}
+
+.name-and-nav {
+  /* Position name and navigation vertically */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align items to the left */
+  gap: 10px; /* Adjust spacing between elements */
+}
+
+h1 {
+  /* Style the name */
+  margin: 0;
+  font-size: 1.5rem;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  margin-bottom: 10px; /* Add space between name and navigation */
+}
+
+nav ul {
+  /* Remove bullets and list styling */
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  /* Spacing between list items */
+  margin-bottom: 10px;
+}
+
+nav a {
+  /* Remove underlining and default link color */
+  text-decoration: none;
+  color: black;
+  font-weight: normal;
+  font-size: 0.75rem; /* 75% of the base font size */
+  /* Add hover state if desired: */
+  &:hover {
+    color: #your-custom-color; /* Change color on hover */
+  }
+}
 
 
