@@ -1,5 +1,5 @@
 Personal Website
-Personal Website so I express my love for Gen
+Personal Website so I express my love for Alison
 
 # Welcome to My Basic Website
 
@@ -18,7 +18,7 @@ Check out some of my exciting projects that don't work:
 
 ## Contact
 
-You can contact me at my-email@example.com.
+You can contact me at iloveali@gmail.com.
 
 ---
 
