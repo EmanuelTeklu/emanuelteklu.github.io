@@ -10,7 +10,7 @@ header {
 
 .header-content {
   display: flex;
-  flex-direction: column;
+  flex-direction: row; /* Left-align the column */ /* This is the added line */
   margin-bottom: 20px;
   text-align: left; /* Align text to left within container */
 }
@@ -41,4 +41,5 @@ nav a {
   color: black;
   font-weight: normal;
 }
+
 
