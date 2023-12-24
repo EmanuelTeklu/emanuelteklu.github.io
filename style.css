@@ -2,7 +2,7 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start; /* Align header content to the left */
   height: 100vh;
 }
 
@@ -57,6 +57,5 @@ img {
   width: auto;
 }
 
-}
 
 
